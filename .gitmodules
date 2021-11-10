@@ -1,0 +1,3 @@
+[submodule "Crosswords"]
+	path = Crosswords
+	url = https://github.com/thiasmp/Modulopgave-2-Crosswords
